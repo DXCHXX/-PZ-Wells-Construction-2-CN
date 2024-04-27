@@ -1,0 +1,3 @@
+ItemName_CN = {
+    ItemName_WellsConstruction.WellsConstructionMag = "水井建设",
+}

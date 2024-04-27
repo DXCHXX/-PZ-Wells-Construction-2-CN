@@ -1,5 +1,0 @@
-ContextMenu_CN = {
-    ContextMenu_BuildWell = "建造井",
-    ContextMenu_BuildWellTooltipShortDesc = "长期储水",
-    ContextMenu_BuildWellTooltipName = "井",
-}
